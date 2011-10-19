@@ -1,0 +1,6 @@
+FATAL ERRORS TABLE
+1    Unable to open config file
+2    Unable to open the required db plugin (located in inc/topic.db.YOUR-DB.php YOUR-DB is by default MySQL)
+3    Missing or empty DB's config parameters
+4    Unable to connect to database
+5    Unable to open database (connection established but database missing, don't have permissions, etc)
